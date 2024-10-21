@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waqar9k
+- 👋 Hi, I’m waqar baloch
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning algorithms
 
